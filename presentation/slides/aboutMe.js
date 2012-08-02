@@ -13,7 +13,7 @@ enyo.kind({
         {
           kind: "enyo.Image",
           classes: "right-photo",
-          src: "$presentation/assets/images/ryan_headshot.png"
+          src: "/presentation/assets/images/ryan_headshot.png"
         },
         {
           tag: 'ul',

@@ -11,7 +11,7 @@ enyo.kind({
     {
       kind: 'enyo.Image',
       classes: 'right-photo',
-      src: '$presentation/assets/images/hsllock.png'
+      src: '/presentation/assets/images/hsllock.png'
     },
     {
       tag: 'ul',
