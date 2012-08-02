@@ -1,3 +1,22 @@
+body {
+  font-size: 16px;
+}
+
+.left-photo {
+  width: 25%;
+  float: left;
+  margin: 5px;
+}
+.right-photo {
+  width: 25%;
+  float: right;
+  margin: 5px;
+}
+
+.top-toolbar {
+  font-size: 2em;
+}
+
 h1 {
   font-size: 3em;
 }
@@ -22,7 +41,7 @@ li > ul {
 
 li > ul > li > ul {
   margin: 0;
-  font-size: 0.9em; /* don't double up on 2em font-size */
+  font-size: 0.7em; /* don't double up on 2em font-size */
 }
 
 .title-slide {
@@ -57,13 +76,21 @@ li > ul > li > ul {
   font-weight: bold;
 }
 
-.left-photo {
-  width: 25%;
-  float: left;
-  margin: 5px;
-}
-.right-photo {
-  width: 25%;
-  float: right;
-  margin: 5px;
+@media only screen
+       and (min-device-width : 320px)
+       and (max-device-width : 480px) {
+  body {
+    font-size: 10px;
+  }
+
+  .left-photo {
+    height: 40%;
+    width: auto;
+    margin: 5px;
+  }
+  .right-photo {
+    height: 40%;
+    width: auto;
+    margin: 5px;
+  }
 }
