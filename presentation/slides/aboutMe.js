@@ -13,7 +13,7 @@ enyo.kind({
         {
           kind: "enyo.Image",
           classes: "right-photo",
-          src: "$presentation/assets/images/ryan_headshot_med.jpg"
+          src: "$presentation/assets/images/ryan_headshot.png"
         },
         {
           tag: 'ul',
@@ -25,6 +25,10 @@ enyo.kind({
             {
               tag: 'li',
               content: 'Open Source Guy'
+            },
+            {
+              tag: 'li',
+              content: 'Breaker of WebOS-CE Patches'
             },
             {
               tag: 'li',
