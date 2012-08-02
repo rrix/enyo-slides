@@ -1,19 +1,8 @@
 var slideOrder = [
   'title',
-  'aboutUs',
-  'whatIsIt',
-  'enyoHistory',
-  'benefits',
-  'community',
-  'oop',
-  'packageLoader',
-  'kindsPlayground',
-  'onyxWhy',
-  'onyxPlayground',
-  'layoutLibrary',
-  'bootplate',
-  'communityGallery',
-  'deployment',
-  'enyoFuture',
-  'questions'
+  'aboutMe',
+  'whyEnyo',
+  'hsllock',
+  'enyoslides',
+  // 'cah'
 ];

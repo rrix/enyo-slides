@@ -1,19 +1,7 @@
 enyo.depends(
-  'title.js',
-  'whatIsIt.js',
-  'aboutUs.js',
-  'enyoHistory.js',
-  'benefits.js',
-  'community.js',
-  'oop.js',
-  'packageLoader.js',
-  'kindsPlayground.js',
-  'onyxWhy.js',
-  'onyxPlayground.js',
-  'layoutLibrary.js',
-  'bootplate.js',
-  'communityGallery.js',
-  'deployment.js',
-  'enyoFuture.js',
-  'questions.js'
+    "title.js",
+    "aboutMe.js",
+    "whyEnyo.js",
+    "hsllock.js",
+    "enyoslides.js"
 );
