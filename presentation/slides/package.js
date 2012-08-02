@@ -3,5 +3,6 @@ enyo.depends(
     "aboutMe.js",
     "whyEnyo.js",
     "hsllock.js",
-    "enyoslides.js"
+    "enyoslides.js",
+    "cah.js"
 );

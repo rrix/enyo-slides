@@ -4,5 +4,5 @@ var slideOrder = [
   'whyEnyo',
   'hsllock',
   'enyoslides',
-  // 'cah'
+  'cah'
 ];
