@@ -1,5 +1,5 @@
 body {
-  font-size: 16px;
+  font-size: 36px;
 }
 
 .left-photo {
@@ -14,19 +14,19 @@ body {
 }
 
 .top-toolbar {
-  font-size: 2em;
+  font-size: 1.2em;
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 1.2em;
 }
 
 h2 {
-  font-size: 2em;
+  font-size: 1em;
 }
 
 ul {
-  font-size: 2em;
+  font-size: 1em;
   margin: 10px;
 }
 
@@ -46,7 +46,7 @@ li > ul > li > ul {
 
 .title-slide {
   text-align: center;
-  background: url(american-flag.jpg);
+  background: url(beefy-miracle.png);
   background-size: 102%;
 }
 
