@@ -18,7 +18,7 @@ enyo.kind({
       components: [
         {
           tag: 'li',
-          content: 'Developed to show off Enyo'
+          content: 'Developed in three weeks to show off Enyo'
         },
         {
           tag: 'li',
@@ -48,7 +48,7 @@ enyo.kind({
               components: [
                 {
                   tag: 'li',
-                  content: 'Express application designed to dynamically pull slides'
+                  content: 'ExpressJS backend designed to dynamically pull slides'
                 },
                 {
                   tag: 'li',
@@ -61,9 +61,6 @@ enyo.kind({
               ]
             }
           ]
-        },
-        {
-          tag: ''
         }
       ]
     }
