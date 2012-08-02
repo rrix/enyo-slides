@@ -15,9 +15,6 @@ enyo.kind({
       classes: 'enyo-fit',
       components: [
         {
-          kind: 'questionSlideable'
-        },
-        {
           kind: 'slidedeck.SlidesPane',
           name: 'slidesPanes',
           fit:  true,
