@@ -1,5 +1,9 @@
 registerSlides(
   'title.html',
   'intro.js',
-  'theBasics.js'
+  'theBasics.js',
+  'htmlslides.html',
+  'jsSlides.js',
+  'more.js',
+  '$slidedeck/questions.js'
 );
