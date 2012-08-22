@@ -13,6 +13,13 @@
   color: #000;
 }
 
+pre {
+  margin-left: 25px;
+  margin-right: 25px;
+  padding: 2px;
+  border: 1px black solid;
+}
+
 .vendor-logo {
   position: absolute;
   max-width: 300px;
