@@ -100,6 +100,7 @@ enyo.kind({
 
     if( /.js$/.exec(kindName) ) {
       var kind = kindName.replace('.js', '');
+      kind = kind.replace(/.*\//, '');
 
       object = { kind: kind };
     } else if( /.html$/.exec(kindName) ) {
